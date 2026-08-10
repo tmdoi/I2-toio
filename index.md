@@ -45,6 +45,8 @@ toioロボットとPythonで楽しくプログラミングを学ぼう．
 
 - [Pythonリファレンス](reference/python-reference.html) - 変数，演算子，if/for/while，リストなど
 
+### [公開講座2026「Python言語でロボットを動かそう」](kokai2026/) - 公開講座の受講者向けページ
+
 
 
 ## 参考リンク
